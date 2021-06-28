@@ -1,7 +1,9 @@
 # optimal-forks
 
 This repository contains the code needed to run Algorithm 1 as presented in the paper:
+
 Optimal Forks: Preprocessing Single-Source Shortest Path Instances with Interval Data
+
 DOI:
 
 Given a directed graph with a set of source nodes, this program identifies for each source node s, which arcs in the graph are guaranteed to not lie on any shortest path from s to another node in the graph.
